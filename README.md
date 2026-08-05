@@ -79,11 +79,12 @@ I am developing my skills through coursework, personal projects, and practical c
 
 ## Let's Connect
 
-I am open to connecting with students, developers, and cybersecurity professionals, and to learning from constructive feedback. You can reach me through GitHub; a verified LinkedIn profile link will be added here when available.
+I am open to connecting with students, developers, and cybersecurity professionals. Feel free to reach out through GitHub or email for thoughtful conversations, feedback, and learning opportunities.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kaanbuz123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaanbuz123)
+[![Email](https://img.shields.io/badge/Email-kaanbuz2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaanbuz2007@gmail.com)
 
 </div>
 
