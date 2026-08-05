@@ -85,10 +85,9 @@ I am open to connecting with students, developers, and cybersecurity professiona
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kaanbuz123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaanbuz123)
 [![Email](https://img.shields.io/badge/Email-kaanbuz2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaanbuz2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan_Buz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-buz-93b940389/)
 
 </div>
-
-<!-- Add Kaan's verified LinkedIn profile URL here when available. -->
 
 <div align="center">
 
