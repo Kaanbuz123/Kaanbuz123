@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.5 seconds
-Output:
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0ea5e9,100:22c55e&height=220&section=header&text=Kaan%20Buz&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Programming%20Student%20%7C%20Cybersecurity%20Intern&descAlignY=60&animation=fadeIn)
