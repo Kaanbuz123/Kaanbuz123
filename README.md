@@ -8,14 +8,14 @@
 
 ## About Me
 
-I'm **Kaan Buz**, a Computer Programming student at **Bursa UludaÄŸ University** and a **Cybersecurity Intern at RNV.AI**.
+I'm **Kaan Buz**, a Computer Programming student at **Bursa Uludag University** and a **Cybersecurity Intern at RNV.AI**.
 
 I am developing my skills through coursework, personal projects, and practical cybersecurity experience. My main interests are **cybersecurity**, **software development**, and **sports**. I enjoy understanding how systems work, writing clearer code, and learning how software can be built more securely.
 
-- ğŸ“ Studying Computer Programming at Bursa UludaÄŸ University
-- ğŸ›¡ï¸ Gaining practical experience as a Cybersecurity Intern at RNV.AI
-- ğŸ’» Interested in secure software, automation, and problem solving
-- ğŸƒ I value the discipline and consistency that sports bring to everyday life
+- Studying Computer Programming at Bursa Uludag University
+- Gaining practical experience as a Cybersecurity Intern at RNV.AI
+- Interested in secure software, automation, and problem solving
+- I value the discipline and consistency that sports bring to everyday life
 
 ## Focus Areas
 
