@@ -52,8 +52,8 @@ I am developing my skills through coursework, personal projects, and practical c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaanbuz123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kaan's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanbuz123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaanbuz123&theme=tokyonight" alt="Kaan's GitHub statistics" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaanbuz123&theme=tokyonight" alt="Most used languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanbuz123&theme=tokyonight&hide_border=true" alt="Kaan's GitHub contribution streak" />
 
