@@ -52,8 +52,24 @@ I am developing my skills through coursework, personal projects, and practical c
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaanbuz123&theme=tokyonight" alt="Kaan's GitHub statistics" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaanbuz123&theme=tokyonight" alt="Most used languages" />
+<table>
+  <tr>
+    <th>GitHub Overview</th>
+    <th>Languages in Public Projects</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Public_Repositories-6-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="6 public repositories" /><br />
+      <img src="https://img.shields.io/github/stars/Kaanbuz123?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=BB9AF7" alt="Total GitHub stars" />
+      <img src="https://img.shields.io/github/followers/Kaanbuz123?style=for-the-badge&logo=github&label=Followers&color=2AC3DE" alt="GitHub followers" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+      <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python" />
+      <img src="https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C Sharp" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanbuz123&theme=tokyonight&hide_border=true" alt="Kaan's GitHub contribution streak" />
 
